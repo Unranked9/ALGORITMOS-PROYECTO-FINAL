@@ -1,0 +1,12 @@
+1,Base de Datos,0,20,20
+2,Desarrollo Web,2,30,30
+3,Desarrollo De Habilidades Profesionales I,0,10,10
+4,Matemáticas I,0,15,15
+5,Estadística,1,18,18
+6,Modelado de PN,0,25,30
+7,Algoritmos y Estructura de Datos,1,28,35
+8,EFSRT I,1,15,20
+9,Lenguaje de Programacion,3,25,40
+10,Analisis y Diseño de Sistema,3,24,28
+1011,Base de Datos,0,20,20
+1020,Seminario de Tesi,5,50,50
